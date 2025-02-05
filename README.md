@@ -14,7 +14,7 @@ Bu proje, kullanıcıların yapılacak işlerini kolayca takip etmelerini sağla
 ## Kullanım  
 1. Projeyi klonlayın:  
     ```bash
-    git clone https://github.com/kullanici_adi/rastgele-sifre-olusturucu.git
+    git clone https://github.com/SelimKse/To-Do-Web.git
     ```  
 2. Proje klasörüne geçin:  
     ```bash
